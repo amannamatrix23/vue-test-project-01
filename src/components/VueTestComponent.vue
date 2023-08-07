@@ -13,6 +13,6 @@ export default {
 
 <style scoped>
     h2 {
-        color: blueviolet;
+        color: blueviolet; 
     }
 </style>
